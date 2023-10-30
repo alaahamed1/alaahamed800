@@ -76,7 +76,7 @@
 <br>
 
 
-<div >
+<div align="center>
 <a> 
     <a href="https://github.com/alaahamed800"><img alt="Al Siam's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=alaahamed800&theme=solarized-light&border_radius=10)](https://git.io/streak-stats" height="192px" width="49.5%"/></a>
   <a href="https://github.com/alaahamed800"><img alt="Al Siam's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alaahamed800&theme=flag_india&utcOffset=8" height="192px" width="49.5%"/></a>
