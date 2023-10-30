@@ -15,10 +15,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+##<picture> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> **Skills**
 
-
-<p align="center">
 
 
 <p  align="center">
@@ -74,8 +72,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -89,7 +85,7 @@
 <!-- ------------------------------------------- -->
 <a> 
     <a href="https://github.com/alaahamed800"><img alt="Al Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alaahamed800&show_icons=true&theme=solarized-light&border_radius=10" height="200px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaahamed800&theme=solarized-light&border_radius=10&layout=donut" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alaahamed800"><img alt="Al Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaahamed800&theme=solarized-light&border_radius=10&layout=donut" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
@@ -114,23 +110,8 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-
-
-<br>
-<br>
-
-
-<br>
   
 
-
-
-
-<br>
-
-<br>
-<br>
-<br>
 
 
   <br>
