@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=500&size=22&pause=1000&color=8D9B34&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+It's+ALAA+HAMED;%E3%80%8C+Web+Application+Developer++%E3%80%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=500&size=22&pause=1000&color=268bd2&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+It's+ALAA+HAMED;%E3%80%8C+Web+Application+Developer++%E3%80%8D" alt="Typing SVG" />
 </p>
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px></picture> **About me**
