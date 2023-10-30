@@ -88,11 +88,10 @@
 <a> 
     <a href="https://github.com/alaahamed800"><img alt="Al Siam's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alaahamed800&theme=flag_india" height="192px" width="49.5%"/></a>
   <a href="https://github.com/alaahamed800"><img alt="Al Siam's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaahamed800&theme=flag_india" height="192px" width="49.5%"/></a>
-  <br/>
-  <p align="center>
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaahamed800&theme=flag_india)
-</p>
+<img alt="Al Siam's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaahamed800&theme=flag_india"/>
+
+
 </a>
 
 </div>
