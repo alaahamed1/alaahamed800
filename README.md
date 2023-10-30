@@ -2,7 +2,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=500&size=22&pause=1000&color=8D9B34&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+It's+ALAA+HAMED;%E3%80%8C+Web+Application+Developer++%E3%80%8D" alt="Typing SVG" />
 </p>
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px></picture> **About me**
 
@@ -78,33 +77,32 @@
 
 
 <div >
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alaahamed800&theme=solarized-light&border_radius=10)](https://git.io/streak-stats)
+<a> 
+    <a href="https://github.com/alaahamed800"><img alt="Al Siam's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=alaahamed800&theme=solarized-light&border_radius=10)](https://git.io/streak-stats" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alaahamed800"><img alt="Al Siam's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alaahamed800&theme=flag_india&utcOffset=8" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 
 <!-- ------------------------------------------- -->
 <a> 
-    <a href="https://github.com/alaahamed800"><img alt="Al Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alaahamed800&show_icons=true&theme=solarized-light&border_radius=10" height="200px" width="49.5%"/></a>
-  <a href="https://github.com/alaahamed800"><img alt="Al Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaahamed800&theme=solarized-light&border_radius=10&layout=donut" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/alaahamed800"><img alt="Al Siam's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alaahamed800&theme=flag_india" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alaahamed800"><img alt="Al Siam's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaahamed800&theme=flag_india" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaahamed800&theme=flag_india)
+<!-- +++++++++++++++++++++++++++++++++++++++++++ -->
+
+
+
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alaahamed800&theme=flag_india&area=true)
+
 </div>
-<!-- ------------------------------------------- -->
 
 
-<br>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://github-profile-trophy.vercel.app/?username=alaahamed800" />
-  </a>
-</p>
+
 
 <br>
 <br>
@@ -123,16 +121,23 @@
 <br>
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github-profile-trophy.vercel.app/?username=alaahamed800" />
+  </a>
+</p>
+<br>
 <!--profile visit count-->
 <div align="center" >
   
 <p> <img src="https://komarev.com/ghpvc/?username=alaahamed800&label=views&color=e7d2cc&style=flat" alt="alaahamed800" /> </p>
  <b>✨thanks for visiting me</b>
 </div>
-<br>
-<br>
-
 
 ---
 
