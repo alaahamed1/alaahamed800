@@ -1,26 +1,161 @@
-<h1 align="center">it's alaa</h1>
-<h3 align="center">A passionate web developer;</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alaahamed800&label=views&color=e7d2cc&style=flat" alt="alaahamed800" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaahamed800" alt="alaahamed800" /></a> </p>
-
-- 👨‍💻 All of my projects are currently available at [https://github.com/alaahamed800](https://github.com/alaahamed800)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/alaa-hamed-92a6b9233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/alaa-hamed-92a6b9233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-- 📫 How to reach me **alaa.elzeftawy@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alaa hamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaa hamed" height="30" width="40" /></a>
+<br>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=500&size=22&pause=1000&color=8D9B34&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+It's+ALAA+HAMED;%E3%80%8C+Web+Application+Developer++%E3%80%8D" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px></picture> **About me**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaahamed800&show_icons=true&theme=dark&title_color=362417&text_color=745839&bg_color=dadada&cache_seconds=1801&locale=en&layout=compact" alt="alaahamed800" /></p>
+- A passionate Self-taught full stack developer .
+-   Exploring new technologies and developing programming insights .
+- 📫 How to reach me alaa.elzeftawy@gmail.com
+- 👨‍💻 All of my projects are currently available at [https://github.com/alaahamed800](https://github.com/alaahamed800)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/alaa-hamed-92a6b9233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/alaa-hamed-92a6b9233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alaahamed800&show_icons=true&locale=en" alt="alaahamed800" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alaahamed800&" alt="alaahamed800" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+
+<p align="center">
+
+
+<p  align="center">
+
+
+  </p>
+  
+<p  align="center">
+<img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" height="25"/>
+  </p>
+  
+
+  <p  align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  &nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  &nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
+ </p>
+
+
+<p align="center">
+
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+</p>
+
+
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="35">
+&nbsp;
+&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" height="35">
+&nbsp;
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+&nbsp;
+&nbsp;
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+&nbsp;
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</p>
+<br>
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+
+<div >
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alaahamed800&theme=solarized-light&border_radius=10)](https://git.io/streak-stats)
+
+
+<!-- ------------------------------------------- -->
+<a> 
+    <a href="https://github.com/alaahamed800"><img alt="Al Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alaahamed800&show_icons=true&theme=solarized-light&border_radius=10" height="200px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaahamed800&theme=solarized-light&border_radius=10&layout=donut" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+</div>
+<!-- ------------------------------------------- -->
+
+
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github-profile-trophy.vercel.app/?username=alaahamed800" />
+  </a>
+</p>
+
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+
+<br>
+<br>
+
+
+<br>
+  
+
+
+
+
+<br>
+
+<br>
+<br>
+<br>
+
+
+  <br>
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<br>
+<br>
+<br>
+<br>
+
+
+<!--profile visit count-->
+<div align="center" >
+  
+<p> <img src="https://komarev.com/ghpvc/?username=alaahamed800&label=views&color=e7d2cc&style=flat" alt="alaahamed800" /> </p>
+ <b>✨thanks for visiting me</b>
+</div>
+<br>
+<br>
+
+
+---
+
+Credit: [Alaa Hamed](https://github.com/alaahamed800)
+
+Last Edited on: 01/11/2023
+
