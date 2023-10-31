@@ -66,8 +66,7 @@
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </p>
-<br>
-<br>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -78,7 +77,6 @@
 <a> 
     <a href="https://github.com/alaahamed800"><img src="https://github-readme-streak-stats.herokuapp.com?user=alaahamed800&theme=solarized-light&border_radius=10)](https://git.io/streak-stats" height="192px" width="49.5%"/></a>
   <a href="https://github.com/alaahamed800"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alaahamed800&theme=flag_india&utcOffset=8" height="192px" width="49.5%"/></a>
-  <br/>
 </a>
 
 
@@ -89,15 +87,12 @@
 
   <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaahamed800&theme=flag_india"/>
-
 </p>
 </a>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
 <br>
 <br>
 
