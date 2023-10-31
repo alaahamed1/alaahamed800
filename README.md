@@ -76,19 +76,19 @@
 
 <div align="center>
 <a> 
-    <a href="https://github.com/alaahamed800"><img alt="Al Siam's Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=alaahamed800&theme=solarized-light&border_radius=10)](https://git.io/streak-stats" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alaahamed800"><img alt="Al Siam's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alaahamed800&theme=flag_india&utcOffset=8" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/alaahamed800"><img src="https://github-readme-streak-stats.herokuapp.com?user=alaahamed800&theme=solarized-light&border_radius=10)](https://git.io/streak-stats" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alaahamed800"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alaahamed800&theme=flag_india&utcOffset=8" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
 <!-- ------------------------------------------- -->
 <a> 
-    <a href="https://github.com/alaahamed800"><img alt="Al Siam's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alaahamed800&theme=flag_india" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alaahamed800"><img alt="Al Siam's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaahamed800&theme=flag_india" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/alaahamed800"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alaahamed800&theme=flag_india" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alaahamed800"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaahamed800&theme=flag_india" height="192px" width="49.5%"/></a>
 
   <p align="center">
-<img alt="Al Siam's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaahamed800&theme=flag_india"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaahamed800&theme=flag_india"/>
 
 </p>
 </a>
